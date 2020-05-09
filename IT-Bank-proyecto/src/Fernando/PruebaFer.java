@@ -1,4 +1,4 @@
-package Prueba;
+package Fernando;
 
 public class PruebaFer {
 
@@ -8,6 +8,7 @@ public class PruebaFer {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("hola");
 
 	}
 
